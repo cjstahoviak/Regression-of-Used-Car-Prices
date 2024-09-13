@@ -1,0 +1,17 @@
+name: Regression-Of-Used-Car-Prices
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numba
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - mlflow
+  - pre-commit
+  - ipython
+  - librosa
+  - databricks-sdk
+  - mlxtend
