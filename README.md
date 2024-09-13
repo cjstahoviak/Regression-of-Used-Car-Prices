@@ -22,6 +22,8 @@ This repo uses pre-commit hooks configured in `./.pre-commit-config.yaml` and a 
 2. Activate the environment `conda activate Regression-Of-Used-Car-Prices`
 3. Install pre-commit hooks `pre-commit install`
 
+Pre-commit hooks can be stubborn when pushing to git without using the terminal (vscode, github desktop, etc). So be sure to commit and push through a terminal.  
+
 ## File Manifest
 
 ## 
