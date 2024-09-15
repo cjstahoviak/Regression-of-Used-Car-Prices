@@ -1,7 +1,7 @@
 # Regression-of-Used-Car-Prices
-Welcome to the 2024 Kaggle Playground Series! We plan to continue in the spirit of previous playgrounds, providing interesting an approachable datasets for our community to practice their machine learning skills, and anticipate a competition each month.
+This repo is for participating in [this](https://www.kaggle.com/competitions/playground-series-s4e9/overview) Kaggle competition.
 
-**Your Goal**: The goal of this competition is to predict the price of used cars based on various attributes.
+*"**Your Goal**: The goal of this competition is to predict the price of used cars based on various attributes."*
 
 ### Evaluation
 Submissions are scored on the root mean squared error.
