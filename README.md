@@ -24,6 +24,8 @@ This repo uses pre-commit hooks configured in `./.pre-commit-config.yaml` and a 
 
 Pre-commit hooks can be stubborn when pushing to git without using the terminal (vscode, github desktop, etc). So be sure to commit and push through a terminal.  
 
+If changes are made to `environment.yml` then update by running `conda env update --file environment.yml --prune`
+
 ## File Manifest
 
 ## 
