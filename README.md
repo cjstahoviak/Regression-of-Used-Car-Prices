@@ -27,5 +27,5 @@ Pre-commit hooks can be stubborn when pushing to git without using the terminal 
 If changes are made to `environment.yml` then update by running `conda env update --file environment.yml --prune`
 
 ## File Manifest
-
+All models are genetated in the `./model/<model-type>` folders. The goal is to try to solve this with many different strategies. Models can predict on the data by running the `./model/model_predict.py` script (after changing the path to the model pickle file). Predictions are automatically formatted for Kaggle and stored in `./submissions`.
 ## 
