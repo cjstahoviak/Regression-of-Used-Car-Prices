@@ -37,3 +37,6 @@ Results not submitted.
 - Build Logistic regression model
 - Build Support Vector Machine model
 - Build Neural Net Model
+
+## Results
+- 2027/3066
